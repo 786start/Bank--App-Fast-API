@@ -2,7 +2,7 @@
 
 ## Description
 
-*Please provide a brief description of your project here.*
+This is a simple banking API built with FastAPI. It provides basic banking functionalities like checking balances, depositing funds, and transferring money between users. The API is designed to be a learning project for understanding the fundamentals of FastAPI.
 
 ## Installation
 
